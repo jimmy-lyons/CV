@@ -22,7 +22,7 @@ _Senior Structural Engineer_
 - Attending and running project meetings. 
 - Managing project finances against resources.
 
-**Elliott Wood** (September 2015 to November 2018)  
+**Elliott Wood** (August 2015 to November 2018)  
 _Structural Engineer_
 
 - Complex analysis and calculation processes to design structural elements.
@@ -63,7 +63,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2022 to July 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -72,16 +72,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Leeds (September 2011 to June 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Architectural Engineering (MEng)
+- 2:1
+- While the degree ultimately qualified us for the discipline of structural engineering, it was taught through the lense of collaboration and integration
+  between different bodies: structural engineering, architecture, building services engineering and practical construction. The ability to view a 
+  problem hollistically, through the perspective of multiple disciplines, is something that I've applied successfully throughout my career to date. 
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Chartetership with the Institute of Structural Engineers (MIStructE) - 2021. 
+Obtaining professional chartership with the IStructE requires a portfolio submission, technical interview with two members and passing an eigth hour exam.
+This qualification is the culmination of hundreds of hours of work across numerous evenings and weekends ontop of the hours I spent at my job. 
+As well as being a personal milestone, I believe it is indicative of my hard work ethic and dedication.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Cooking, travelling, live music, football, climbing, film, tv, walking, socialising. Most of these took a serious hit during covid!

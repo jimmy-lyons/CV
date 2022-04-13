@@ -1,6 +1,6 @@
 ## Jimmy Lyons
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I have been working in London as a Structural Engineer since graduating from univeristy in 2015. Having reached several personal milestones in that career, I have taken the decision to carve a new path for myself in tech, where I am confident that my methodical and technical approach to problem solving will find a natural home. 
 
 ## Projects
 
@@ -11,15 +11,25 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Heyne Tillett Steel** (April 2019 to April 2022)  
+_Senior Structural Engineer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Same tasks as at Elliott Wood plus those listed below:
+- Indipendently running engineering projects from conception to construction.
+- Managing workload across serveral projects simultaneously.
+- Delegating work packages to team members with clear goals, methodolgy and timelines and providing support as required.
+- Mentoring junior engineers.
+- Attending and running project meetings. 
+- Managing project finances against resources.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Elliott Wood** (September 2015 to November 2018)  
+_Structural Engineer_
 
-- Any experience relevent to software development
+- Complex analysis and calculation processes to design structural elements.
+- Manipulation and rationalisation of large amounts of analytical data into a useable format.
+- Working on discrete calculation or design packages to feed into the wider project.
+- Collaboration with numerous and diverse disciplines external to my company to deliver my projects.
+- Developing automated calculations to streamline project work.
 
 ## Skills
 

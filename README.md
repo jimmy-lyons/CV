@@ -36,34 +36,6 @@ _Structural Engineer_
 
 ## Key Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ### Prolific Learner
 I've always relished an oportunity to learn something new. In my previous profession as a Structural Engineer I was constantly required to learn new analysis techniques/ technologies and design methodolgies for a range of ever-changing materials. It's not possible to learn everything you'll ever need to know in Engineering, so at various stages in each project you encounter something you do not understand. In such situations I've always been able to do the necessary research to efficiently and thouroghly learn what is needed to complete the task at hand. Having moved from structures to software, I am pleased to see that both disciplines require constant learning.
 
@@ -95,10 +67,7 @@ My previous two companies were engineering consultancies which would win project
 I have always been able to motivate myself towards achieving a specific goal. The greatest example of this was achieving my Chartered Membership status with the Institute of Structural Engineers. Please see more details of this in 'Other Qualifications'.
 
 ### Problem Solver
-
-### Visualiser
-
-
+I'm drawn to disciplines which require problem solving. I love the thought process, the iterations, the creativity, the research and ultimately the satisfaction of solving a problem. I generally attribute my problem solving prowess to my dedication and ability to mentally visualise scenarios, whether it's a physcical structure or a collection of theoretical objects and processes. 
 
 
 ## Education

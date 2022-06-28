@@ -4,10 +4,13 @@ I have been working in London as a Structural Engineer since graduating from uni
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                       | Description       | Tech/tools        |
+| -------------------------- | ----------------- | ----------------- |
+| **Makebook**               | Mock of Facebook  | Jest, Cypress, Javascript, express.js, Mongoose, Handlebars |
+| **frontend-api-challenge** | Mock of Twitter   | Jest, Javascript, DOM, APIs |
+| **MakersBnB**              | Mock of AirBnB    | Ruby, RSpec, sinatra, capybara, erb, SQL |
+| **bank-tech-test**         | Simple Bank App   | Ruby, RSpec, SQL |
+
 
 ## Work Experience
 

@@ -34,7 +34,7 @@ _Structural Engineer_
 - Collaboration with numerous and diverse disciplines external to my company to deliver my projects.
 - Developing automated calculations to streamline project work.
 
-## Skills
+## Key Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -64,45 +64,46 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Prolific Learner
+### Prolific Learner
 I've always relished an oportunity to learn something new. In my previous profession as a Structural Engineer I was constantly required to learn new analysis techniques/ technologies and design methodolgies for a range of ever-changing materials. It's not possible to learn everything you'll ever need to know in Engineering, so at various stages in each project you encounter something you do not understand. In such situations I've always been able to do the necessary research to efficiently and thouroghly learn what is needed to complete the task at hand. Having moved from structures to software, I am pleased to see that both disciplines require constant learning.
 
 - I've put this skill to good use throughout the Makers course, which puts an emphasis on self-learning. 
 - I've been able to take on the course materials and put them into practice during the weekly and weekend challenges.
 - My learning progression is documented through my Github repositories, which show how my ability to write and structure code progresses week on week. Below are some choice projects in chronological order.
+  - [hello-world - Feb 1st - Precourse](https://github.com/jimmy-lyons/hello-world.git)
+  - [mastery-quizzes - April 5th - Precourse](https://github.com/jimmy-lyons/mastery-quizzes.git)
+  - [student-directory - April 13th - Precourse](https://github.com/jimmy-lyons/student-directory.git)
+  - [airport_challenge - April 27th - Week 1](https://github.com/jimmy-lyons/airport_challenge.git)
+  - [takeaway-challenge - May 2nd - Week 2](https://github.com/jimmy-lyons/takeaway-challenge.git)
+  - [makersBnB - May 20th - Week 5](https://github.com/jimmy-lyons/MakersBnB.git)
+  - [chitter-challenge - May 22nd - Week 5](https://github.com/jimmy-lyons/chitter-challenge.git)
+  - [frontend-api-challenge - June 6th - Week 7](https://github.com/jimmy-lyons/frontend-api-challenge.git)
+  - [acebook-Makebook - June 18th - Week 9](https://github.com/jimmy-lyons/acebook-MakeBook.git)
 
-[hello-world - Feb 1st - Precourse] (https://github.com/jimmy-lyons/hello-world.git)
-[mastery-quizzes - April 5th - Precourse] (https://github.com/jimmy-lyons/mastery-quizzes.git)
-[student-directory - April 13th - Precourse] (https://github.com/jimmy-lyons/student-directory.git)
-[airport_challenge - April 27th - Week 1] (https://github.com/jimmy-lyons/airport_challenge.git)
-[takeaway-challenge - May 2nd - Week 2] (https://github.com/jimmy-lyons/takeaway-challenge.git)
-[makersBnB - May 20th - Week 5] (https://github.com/jimmy-lyons/MakersBnB.git)
-[chitter-challenge - May 22nd - Week 5] (https://github.com/jimmy-lyons/chitter-challenge.git)
-[frontend-api-challenge - June 6th - Week 7] (https://github.com/jimmy-lyons/frontend-api-challenge.git)
-[acebook-Makebook - June 18th - Week 9] (https://github.com/jimmy-lyons/acebook-MakeBook.git)
+### Collaborative Worker
+For the past seven years I have built a successful career in the construction industry which requires, above all things, collaboration. I easily spent half of my time coordinating with members of my own team as well as Architects, M&E Engineers and Contractors (to name a few). 
+My time at Makers has shown me that software development requires a huge amount of coordination and collaboration to keep projects running harmoneously.Several of the projects I've completed on the course have been in teams of five or six people. I have really enjoyed these projects because of the opportunity to plan and implement a project from within a team again. 
+Please see makersBnB and acebook-Makebook in the links above to see the result of these collaborative projects. 
 
-#### Project Management
+### Project Management
+My role at HTS primarily comprised being a project managaer. Typically I would have ownership of three to six projects of various sizes and at various stages of completion. I would need to manage the delivery of work packages at key stages in the project, manage the resources we would spend against the project fee, coordinate as discussed in the point above as well as interact with the Client. My technical engineering ability and skill at efficiently running projects earned me promotion to Senior Engineer at HTS.
 
-#### Self Motivator
+### Performance Under Pressure
+My previous two companies were engineering consultancies which would win project work based on, amongst other things, delivering work packages to an agreed deadline. The nature of project work means that you can never never all be perfectly paced to deliver the work on time - last minute changes may be sent over at the 11th hour or a team member is indisposed on the day of issue. In these moments I've found that I can keep a calm head, prioritise the necessary items and manage expectations as required.
 
-#### Performance Under Pressure
+### Self Motivator
+I have always been able to motivate myself towards achieving a specific goal. The greatest example of this was achieving my Chartered Membership status with the Institute of Structural Engineers. Please see more details of this in 'Other Qualifications'.
 
-#### Problem Solver
+### Problem Solver
 
-#### Visualiser
+### Visualiser
 
-#### Collaborative Worker
 
-Throughout my time at Makers and previously I've worked 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (April 2022 to July 2022)
+### Makers Academy (April 2022 to July 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -111,7 +112,7 @@ Throughout my time at Makers and previously I've worked
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Leeds (September 2011 to June 2015)
+### University of Leeds (September 2011 to June 2015)
 
 - Architectural Engineering (MEng)
 - 2:1
@@ -119,9 +120,9 @@ Throughout my time at Makers and previously I've worked
   between different bodies: structural engineering, architecture, building services engineering and practical construction. The ability to view a 
   problem hollistically, through the perspective of multiple disciplines, is something that I've applied successfully throughout my career to date. 
 
-#### Any other qualifications
+### Other qualifications
 
-Chartetership with the Institute of Structural Engineers (MIStructE) - 2021. 
+**Chartetership with the Institute of Structural Engineers (MIStructE) - 2021.**
 Obtaining professional chartership with the IStructE requires a portfolio submission, technical interview with two members and passing an eigth hour exam.
 This qualification is the culmination of hundreds of hours of work across numerous evenings and weekends ontop of the hours I spent at my job. 
 As well as being a personal milestone, I believe it is indicative of my hard work ethic and dedication.

@@ -6,10 +6,10 @@ I have been working in London as a Structural Engineer since graduating from uni
 
 | Name                       | Description       | Tech/tools        |
 | -------------------------- | ----------------- | ----------------- |
-| **Makebook**               | Mock of Facebook  | Jest, Cypress, Javascript, express.js, Mongoose, Handlebars |
-| **frontend-api-challenge** | Mock of Twitter   | Jest, Javascript, DOM, APIs |
-| **MakersBnB**              | Mock of AirBnB    | Ruby, RSpec, sinatra, capybara, erb, SQL |
-| **bank-tech-test**         | Simple Bank App   | Ruby, RSpec, SQL |
+| [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git)| Mock of Facebook  | Jest, Cypress, Javascript, express.js, Mongoose, Handlebars |
+| [frontend-api-challenge](https://github.com/jimmy-lyons/frontend-api-challenge.git) | Mock of Twitter   | Jest, Javascript, DOM, APIs |
+| [MakersBnB](https://github.com/jimmy-lyons/MakersBnB.git) | Mock of AirBnB    | Ruby, RSpec, sinatra, capybara, erb, SQL |
+| [bank-tech-test](https://github.com/jimmy-lyons/bank-tech-test.git) | Simple Bank App   | Ruby, RSpec, SQL |
 
 
 ## Work Experience

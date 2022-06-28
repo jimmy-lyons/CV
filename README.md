@@ -64,6 +64,42 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Prolific Learner
+I've always relished an oportunity to learn something new. In my previous profession as a Structural Engineer I was constantly required to learn new analysis techniques/ technologies and design methodolgies for a range of ever-changing materials. It's not possible to learn everything you'll ever need to know in Engineering, so at various stages in each project you encounter something you do not understand. In such situations I've always been able to do the necessary research to efficiently and thouroghly learn what is needed to complete the task at hand. Having moved from structures to software, I am pleased to see that both disciplines require constant learning.
+
+- I've put this skill to good use throughout the Makers course, which puts an emphasis on self-learning. 
+- I've been able to take on the course materials and put them into practice during the weekly and weekend challenges.
+- My learning progression is documented through my Github repositories, which show how my ability to write and structure code progresses week on week. Below are some choice projects in chronological order.
+
+[hello-world - Feb 1st - Precourse] (https://github.com/jimmy-lyons/hello-world.git)
+[mastery-quizzes - April 5th - Precourse] (https://github.com/jimmy-lyons/mastery-quizzes.git)
+[student-directory - April 13th - Precourse] (https://github.com/jimmy-lyons/student-directory.git)
+[airport_challenge - April 27th - Week 1] (https://github.com/jimmy-lyons/airport_challenge.git)
+[takeaway-challenge - May 2nd - Week 2] (https://github.com/jimmy-lyons/takeaway-challenge.git)
+[makersBnB - May 20th - Week 5] (https://github.com/jimmy-lyons/MakersBnB.git)
+[chitter-challenge - May 22nd - Week 5] (https://github.com/jimmy-lyons/chitter-challenge.git)
+[frontend-api-challenge - June 6th - Week 7] (https://github.com/jimmy-lyons/frontend-api-challenge.git)
+[acebook-Makebook - June 18th - Week 9] (https://github.com/jimmy-lyons/acebook-MakeBook.git)
+
+#### Project Management
+
+#### Self Motivator
+
+#### Performance Under Pressure
+
+#### Problem Solver
+
+#### Visualiser
+
+#### Collaborative Worker
+
+Throughout my time at Makers and previously I've worked 
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
 ## Education
 
 #### Makers Academy (April 2022 to July 2022)

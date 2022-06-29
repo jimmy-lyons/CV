@@ -2,7 +2,7 @@
 
 I have been working in London as a Structural Engineer since graduating from university in 2015. Having reached several personal milestones in that career, I have taken the decision to carve a new path for myself in tech, where I am confident that my methodical and technical approach to problem solving will find a natural home. 
 
-## Projects
+## Key Projects
 
 | Name                       | Description       | Tech/tools        |
 | -------------------------- | ----------------- | ----------------- |
@@ -37,13 +37,12 @@ _Structural Engineer_
 ## Education
 
 ### Makers Academy (April 2022 to July 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- The course is taught over a twelve week period, during which time the syllabus is learnt through pair-programming. 
+- Over the twelve weeks, my knowledge has quickly progressed from basic literacy in Ruby and writing simple algorithms, to writing complex full stack web applications in Ruby and Javascript.
+- The course has taught me to implement the principles of Object Oriented Programming and Test Driven Development in each of my projects. 
+- The applications I have designed during the course have generally had a Model-View-Controller structure and follow RESTful principles.
+- During team projects, we have employed Agile working methodologies. 
+- To summarise my experience at Makers, I would say that the course provides a framework for you to grow your knowledge of programming. The coaching input is minimal and so the responsibility to learn and resolve problems sits firmly with the student. As such, I feel that my greatest skill gained from the course is the confidence to tackle any challenge, whether resolving a complex issue in an already familiar language or learning a completely new language or framework.
 
 ### University of Leeds (September 2011 to June 2015)
 

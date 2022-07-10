@@ -1,16 +1,100 @@
+<div align="center">
+
 # Jimmy Lyons
 
+### Contents
+
+[![tech-skills](https://img.shields.io/badge/-Tech%20Skills-6F2DBD)](#tech-skills) | 
+[![key-projects](https://img.shields.io/badge/-Key%20Projects-A663CC)](#key-projects) | 
+[![work-experience](https://img.shields.io/badge/-Work%20Experience-B298DC)](#work-experience) | 
+[![Education](https://img.shields.io/badge/-Education-B8D0EB)](#education) | 
+[![key-skills](https://img.shields.io/badge/-Key%20Skills-B9FAF8 )](#key-skills) | 
+[![Hobbies](https://img.shields.io/badge/-Hobbies-aafffb)](#hobbies) |
+
+
+### Contact/Links
+[![LinkedIn]](https://www.linkedin.com/in/jimmy-lyons-73a518b0/) | [![CodeWars Profile]](https://www.codewars.com/users/jimmy-lyons)
+
+
 I have been working in London as a Structural Engineer since graduating from university in 2015. Having reached several personal milestones in that field, I have taken the decision to carve a new path for myself in tech, where I am confident that my methodical and technical approach to problem solving will find a natural home. 
+
+It has been ten months since I logged my first 'Hello, World!' to the console when starting the online Harvard CS50 module and now I find myself using TDD and OOP principles to write full MERN stack applications. 
+
+---
+
+## Tech Skills
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>JavaScript</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Ruby</li>
+          <li>C</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Node.js</li>
+          <li>React</li>
+          <li>Express</li>
+          <li>MongoDB</li>
+          <li>PostgreSQL</li>
+          <li>Sinatra</li>
+          <li>Git</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Jest</li>
+          <li>Capybara</li>
+          <li>Cypress</li>
+          <li>RSpec</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>TDD/BDD</li>
+          <li>Object Oriented Design</li>
+          <li>Agile methodology</li>
+          <li>Git workflow</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Delivery</li>
+          <li>Code review</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ## Key Projects
 
 | Name                       | Description       | Tech/tools        |
 | -------------------------- | ----------------- | ----------------- |
-| [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git)| Mock of Facebook  | Jest, Cypress, Javascript, express.js, Mongoose, Handlebars |
+| [BrainsOnBrioche](https://github.com/Farzan-I/brains-on-brioche)| Recipe Generator  | Jest, Cypress, Javascript, node, express.js, Mongoose,  React, 3rd Party APIs |
+| [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git)| Mock of Facebook  | Jest, Cypress, Javascript, node, express.js, Mongoose, Handlebars |
 | [frontend-api-challenge](https://github.com/jimmy-lyons/frontend-api-challenge.git) | Mock of Twitter   | Jest, Javascript, DOM, APIs |
 | [MakersBnB](https://github.com/jimmy-lyons/MakersBnB.git) | Mock of AirBnB    | Ruby, RSpec, sinatra, capybara, erb, SQL |
 | [bank-tech-test](https://github.com/jimmy-lyons/bank-tech-test.git) | Simple Bank App   | Ruby, RSpec, SQL |
 
+</div>
+
+---
 
 ## Work Experience
 
@@ -33,6 +117,8 @@ _Structural Engineer_
 - Working on discrete calculation or design packages to feed into the wider project.
 - Collaboration with numerous and diverse disciplines external to my company to deliver my projects.
 - Developing automated calculations to streamline project work.
+
+---
 
 ## Education
 
@@ -57,6 +143,8 @@ Obtaining professional chartership with the IStructE requires a portfolio submis
 This qualification is the culmination of hundreds of hours of work across numerous evenings and weekends on top of the hours I spent at my job. 
 As well as being a personal milestone, I believe it is indicative of my hard work ethic and dedication.
 
+---
+
 ## Key Skills
 
 #### Prolific Learner
@@ -71,6 +159,7 @@ My learning progression at Makers is documented through my Github repositories. 
   - [chitter-challenge - May 22nd - Week 5](https://github.com/jimmy-lyons/chitter-challenge.git)
   - [frontend-api-challenge - June 6th - Week 7](https://github.com/jimmy-lyons/frontend-api-challenge.git)
   - [acebook-Makebook - June 18th - Week 9](https://github.com/jimmy-lyons/acebook-MakeBook.git)
+  - [BrainsOnBrioche - July 10th - Week 12](https://github.com/Farzan-I/brains-on-brioche)
 
 #### Collaborative Worker
 For the past seven years I have built a successful career in the construction industry which requires, above all things, collaboration. I easily spent half of my time coordinating with members of my own team as well as Architects, M&E Engineers and Contractors. 
@@ -89,6 +178,10 @@ I have always been able to motivate myself towards achieving a specific goal. Th
 #### Problem Solver
 I'm drawn to disciplines which require problem solving. I love the thought process, the iterations, the creativity, the research and ultimately the satisfaction of solving a problem. I generally attribute my problem solving prowess to my dedication and ability to mentally visualise scenarios, whether it's a physical structure or a collection of theoretical objects and processes. 
 
+---
+
 ## Hobbies
 
 Cooking, traveling, live music, football, climbing, film, tv, walking, socialising. Most of these took a serious hit during covid!
+
+---

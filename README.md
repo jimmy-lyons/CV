@@ -13,7 +13,8 @@
 
 
 ### Contact/Links
-[![LinkedIn]](https://www.linkedin.com/in/jimmy-lyons-73a518b0/) | [![CodeWars Profile]](https://www.codewars.com/users/jimmy-lyons)
+[![LinkedIn profile]](https://www.linkedin.com/in/jimmy-lyons-73a518b0/) | 
+[![CodeWars Profile]](https://www.codewars.com/users/jimmy-lyons)
 
 
 I have been working in London as a Structural Engineer since graduating from university in 2015. Having reached several personal milestones in that field, I have taken the decision to carve a new path for myself in tech, where I am confident that my methodical and technical approach to problem solving will find a natural home. 
@@ -185,3 +186,6 @@ I'm drawn to disciplines which require problem solving. I love the thought proce
 Cooking, traveling, live music, football, climbing, film, tv, walking, socialising. Most of these took a serious hit during covid!
 
 ---
+
+[codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin

@@ -87,7 +87,7 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
 
 | Name                       | Description       | Tech/tools        |
 | -------------------------- | ----------------- | ----------------- |
-| [BrainsOnBrioche](https://github.com/jimmy-lyons/brains-on-brioche/tree/main)| Recipe Generator  | Jest, Cypress, Javascript, node, express.js, Mongoose,  React, 3rd Party APIs |
+| [BrainsOnBrioche](https://github.com/jimmy-lyons/brains-on-brioche)| Recipe Generator  | Jest, Cypress, Javascript, node, express.js, Mongoose,  React, 3rd Party APIs |
 | [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git)| Mock of Facebook  | Jest, Cypress, Javascript, node, express.js, Mongoose, Handlebars |
 | [frontend-api-challenge](https://github.com/jimmy-lyons/frontend-api-challenge.git) | Mock of Twitter   | Jest, Javascript, DOM, APIs |
 | [MakersBnB](https://github.com/jimmy-lyons/MakersBnB.git) | Mock of AirBnB    | Ruby, RSpec, sinatra, capybara, erb, SQL |
@@ -125,9 +125,9 @@ _Structural Engineer_
 
 ### Makers Academy (April 2022 to July 2022)
 - The course is taught over a twelve week period, during which the syllabus is learnt through pair-programming. 
-- Over the twelve weeks, my knowledge has quickly progressed from basic literacy in Ruby and writing simple algorithms, to writing complex full stack web applications in Ruby and Javascript.
+- Over the twelve weeks, my knowledge has quickly progressed from basic literacy in Ruby and writing simple algorithms, to writing complex [full stack web applications](#key-projects) in Ruby and Javascript.
 - The course has taught me to implement the principles of Object Oriented Programming and Test Driven Development in each of my projects. 
-- The applications I have designed during the course have generally had a Model-View-Controller structure and follow RESTful principles.
+- I have designed RESTful applications during the course using an [MVC Structure](https://github.com/jimmy-lyons/acebook-MakeBook.git) and [MERN stack](https://github.com/jimmy-lyons/brains-on-brioche).
 - During team projects, we have employed Agile working methodologies. 
 - To summarise my experience at Makers, I would say that the course provides a framework for you to grow your knowledge of programming. The coaching input is minimal and so the responsibility to learn and resolve problems sits firmly with the student. As such, I feel that my greatest skill gained from the course is the confidence to tackle any challenge: whether resolving a complex issue in an already familiar language; or learning a completely new language or framework.
 
@@ -135,13 +135,12 @@ _Structural Engineer_
 
 - Architectural Engineering (MEng)
 - 2:1
-- While the degree ultimately qualified us for the discipline of structural engineering, it was taught through the lens of collaboration and integration between different bodies: structural engineering, architecture, building services engineering and practical construction. The ability to view a problem holistically, through the perspective of multiple disciplines, is something that I've applied successfully throughout my career to date. 
+- My degree ultimately qualified me for the discipline of structural engineering, but it was taught through the lens of collaboration and integration between different bodies: structural engineering, architecture, building services engineering and practical construction. The ability to view a problem holistically, through the perspective of multiple disciplines, is something that I've applied successfully throughout my career to date. 
 
 ### Other qualifications
 
 **Chartership with the Institute of Structural Engineers (MIStructE) - 2021.**
-Obtaining professional chartership with the IStructE requires a portfolio submission, technical interview with two members and passing an eight hour exam.
-This qualification is the culmination of hundreds of hours of work across numerous evenings and weekends on top of the hours I spent at my job. 
+Obtaining professional chartership with the IStructE requires a portfolio submission, technical interview with two members and passing an eight hour exam. This qualification is the culmination of hundreds of hours of work across numerous evenings and weekends on top of the hours I spent at my job. 
 As well as being a personal milestone, I believe it is indicative of my hard work ethic and dedication.
 
 ---
@@ -149,7 +148,8 @@ As well as being a personal milestone, I believe it is indicative of my hard wor
 ## Key Skills
 
 #### Prolific Learner
-I've always relished an opportunity to learn something new. In my previous profession as a Structural Engineer I was constantly required to learn new analysis techniques, technologies and methodologies for a range of ever-changing materials. It's not possible to learn everything you'll ever need to know in Engineering, so at various stages in each project you encounter something you do not understand. In such situations I've always been able to do the necessary research to efficiently and thoroughly learn what is needed to complete the task at hand. Having moved from structures to software, I am pleased to see that both disciplines require constant learning.
+It's not possible to learn everything you'll ever need to know in Engineering, so at various stages in each project you will encounter something that you do not understand. In such situations I've always been able to efficiently and thoroughly learn what is needed to complete the task at hand. A summary of the materials that I have learnt in my four months at Makers can be found in my [tech skills](#tech-skills).<br>
+A good recent example of my ability to learn was during [BrainsOnBrioche](https://github.com/jimmy-lyons/brains-on-brioche), where I had to learn how React and Redux worked, without ever having used them before. After researching them both, I was able to [diagram](https://github.com/jimmy-lyons/brains-on-brioche/blob/main/client/public/sequence-diagram.png) how they worked and explain it to the rest of my team.<br>
 My learning progression at Makers is documented through my Github repositories. They show how my ability to write and structure code has progressed week on week. Below are some choice projects in chronological order.
   - [hello-world - Feb 1st - Precourse](https://github.com/jimmy-lyons/hello-world.git)
   - [mastery-quizzes - April 5th - Precourse](https://github.com/jimmy-lyons/mastery-quizzes.git)
@@ -160,24 +160,27 @@ My learning progression at Makers is documented through my Github repositories. 
   - [chitter-challenge - May 22nd - Week 5](https://github.com/jimmy-lyons/chitter-challenge.git)
   - [frontend-api-challenge - June 6th - Week 7](https://github.com/jimmy-lyons/frontend-api-challenge.git)
   - [acebook-Makebook - June 18th - Week 9](https://github.com/jimmy-lyons/acebook-MakeBook.git)
-  - [BrainsOnBrioche - July 10th - Week 12](https://github.com/Farzan-I/brains-on-brioche)
+  - [BrainsOnBrioche - July 10th - Week 12](https://github.com/jimmy-lyons/brains-on-brioche)
 
-#### Collaborative Worker
-For the past seven years I have built a successful career in the construction industry which requires, above all things, collaboration. I easily spent half of my time coordinating with members of my own team as well as Architects, M&E Engineers and Contractors. 
-My time at Makers has shown me that software development requires a huge amount of coordination and collaboration to keep projects running harmoniously. Several of the projects I've completed on the course have been in teams of five or six people. I have really enjoyed these projects because of the opportunity to plan and implement a project from within a team again. 
-Please see makersBnB and acebook-Makebook in the links above to see the result of these collaborative projects. 
+#### Collaborative
+For the past seven years I have built a successful career in the construction industry which requires, above all things, collaboration. I easily spent half of my time coordinating with members of my own team as well as Architects, M&E Engineers and Contractors.<br>
+My time at Makers has shown me that software development requires a huge amount of coordination and collaboration to keep projects running harmoniously. Several of the projects I've completed on the course have been in teams of five or six people. I have really enjoyed these projects because of the opportunity to plan and implement a project from within a team again.<br>
+Please see [MakersBnB](https://github.com/jimmy-lyons/MakersBnB.git), [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git) and [BrainsOnBrioche](https://github.com/jimmy-lyons/brains-on-brioche) in the links above to see the result of these collaborative projects. 
 
 #### Project Management
-My role at HTS primarily comprised being a project manager. Typically I would have ownership of three to six projects of various sizes and at various stages of completion. I would need to manage the delivery of work packages at key stages in the project, manage the resources we would spend against the project fee, coordinate as discussed in the point above as well as interact with the Client. My technical engineering ability and skill at efficiently running projects earned me promotion to Senior Engineer at HTS.
+My role at HTS primarily comprised being a project manager. Typically I would have ownership of three to six projects of various sizes and at various stages of completion. I would need to manage the delivery of work packages at key stages in the project, manage the resources we would spend against the project fee, coordinate the design as well as interact with the Client. My technical engineering ability and skill at efficiently running projects earned me promotion to Senior Engineer at HTS.<br>
+My time at Makers introduced me to new management concepts, such as the Agile methodology, which was applied in our team projects to great effect.
 
 #### Performance Under Pressure
-My previous two companies were engineering consultancies which would win project work based on, amongst other things, delivering work packages to an agreed deadline. My years of experience has taught me that you can never have all your projects perfectly paced to deliver the work on time - last minute changes may be sent over at the 11th hour or a team member is indisposed on the day of issue. In these moments I've found that I can keep a calm head, prioritise the necessary items and manage expectations as required.
+My previous two companies were engineering consultancies which would win project work based on, amongst other things, delivering work packages to an agreed deadline. My years of experience has taught me that you can never have all your projects perfectly paced to deliver the work on time - last minute changes may be sent over at the 11th hour or a team member is indisposed on the day of issue. In these moments I've found that I can keep a calm head, prioritise the necessary items and manage expectations as required.<br>
+I found this skill particularly useful during [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git), where I had to implement a Friend Request ticket with less than a day before our deadline. I was able to quickly break down the task into managable segments and methodically dispatch each one to deliver the feature on time. 
 
 #### Self Motivator
-I have always been able to motivate myself towards achieving a specific goal. The greatest example of this was achieving my Chartered Membership status with the Institute of Structural Engineers. Please see more details of this in 'Other Qualifications'.
+I have always been able to motivate myself towards achieving a specific goal. The greatest example of this was achieving my Chartered Membership status with the Institute of Structural Engineers. Please see more details of this in [Other Qualifications](#other-qualifications).
 
 #### Problem Solver
-I'm drawn to disciplines which require problem solving. I love the thought process, the iterations, the creativity, the research and ultimately the satisfaction of solving a problem. I generally attribute my problem solving prowess to my dedication and ability to mentally visualise scenarios, whether it's a physical structure or a collection of theoretical objects and processes. 
+I'm drawn to disciplines which require problem solving. I love the thought process, the iterations, the creativity, the research and ultimately the satisfaction of solving a problem. I generally attribute my problem solving prowess to my ability to mentally visualise scenarios, whether it's a physical structure or a collection of theoretical objects and processes.<br>
+At Makers, I've learnt to formalise my problem solving by using TDD to write my code. The process of writing a test before solving the problem gives allows you to clarify in your mind exactly what the problem is before solving it. Once you have the test written, you can easily know if you were successful in solving your problem.
 
 ---
 

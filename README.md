@@ -87,7 +87,7 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
 
 | Name                       | Description       | Tech/tools        |
 | -------------------------- | ----------------- | ----------------- |
-| [BrainsOnBrioche](https://github.com/Farzan-I/brains-on-brioche)| Recipe Generator  | Jest, Cypress, Javascript, node, express.js, Mongoose,  React, 3rd Party APIs |
+| [BrainsOnBrioche](https://github.com/jimmy-lyons/brains-on-brioche/tree/main)| Recipe Generator  | Jest, Cypress, Javascript, node, express.js, Mongoose,  React, 3rd Party APIs |
 | [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git)| Mock of Facebook  | Jest, Cypress, Javascript, node, express.js, Mongoose, Handlebars |
 | [frontend-api-challenge](https://github.com/jimmy-lyons/frontend-api-challenge.git) | Mock of Twitter   | Jest, Javascript, DOM, APIs |
 | [MakersBnB](https://github.com/jimmy-lyons/MakersBnB.git) | Mock of AirBnB    | Ruby, RSpec, sinatra, capybara, erb, SQL |

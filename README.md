@@ -173,21 +173,21 @@ My time at Makers introduced me to new management concepts, such as the Agile me
 
 #### Performance Under Pressure
 My previous two companies were engineering consultancies which would win project work based on, amongst other things, delivering work packages to an agreed deadline. My years of experience has taught me that you can never have all your projects perfectly paced to deliver the work on time - last minute changes may be sent over at the 11th hour or a team member is indisposed on the day of issue. In these moments I've found that I can keep a calm head, prioritise the necessary items and manage expectations as required.<br>
-I found this skill particularly useful during [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git), where I had to implement a Friend Request ticket with less than a day before our deadline. I was able to quickly break down the task into managable segments and methodically dispatch each one to deliver the feature on time. 
+I found this skill particularly useful during [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git), where I had to implement a Friend Request ticket with less than a day before our deadline. I was able to quickly break down the task into manageable segments and methodically dispatch each one to deliver the feature on time. 
 
 #### Self Motivator
 I have always been able to motivate myself towards achieving a specific goal. The greatest example of this was achieving my Chartered Membership status with the Institute of Structural Engineers. Please see more details of this in [Other Qualifications](#other-qualifications).
 
 #### Problem Solver
 I'm drawn to disciplines which require problem solving. I love the thought process, the iterations, the creativity, the research and ultimately the satisfaction of solving a problem. I generally attribute my problem solving prowess to my ability to mentally visualise scenarios, whether it's a physical structure or a collection of theoretical objects and processes.<br>
-At Makers, I've learnt to formalise my problem solving by using TDD to write my code. The process of writing a test before solving the problem gives allows you to clarify in your mind exactly what the problem is before solving it. Once you have the test written, you can easily know if you were successful in solving your problem.
+At Makers, I've learnt to formalise my problem solving by using TDD to write my code. The process of writing a test before solving the problem allows you to clarify in your mind exactly what the problem is before solving it. Once you have the test written, you can easily know if you were successful in solving your problem.
 
 ---
 
 ## Hobbies
 
 🧑‍🍳 **Cooking:** My ideal weekend is one where I spend 12 hours cooking for 12 minutes of eating.<br>
-🏝 **Traveling:** Admittedly this hasn't been much of a hobby in the last few years 🦠<br>
+🏝 **Travelling:** Admittedly this hasn't been much of a hobby in the last few years 🦠<br>
 🎹 **Live Music:** Loving all the venues opening up again. Idles, LCD Soundsystem and Wolf Alice so far this year!<br>
 🏔 **Climbing:** Love to go bouldering and will be joining/creating a group where ever I'm at.<br>
 🍿 **Film/TV:** I mean, who doesn't like film and TV...<br>

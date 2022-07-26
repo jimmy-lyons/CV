@@ -183,7 +183,12 @@ I'm drawn to disciplines which require problem solving. I love the thought proce
 
 ## Hobbies
 
-Cooking, traveling, live music, football, climbing, film, tv, walking, socialising. Most of these took a serious hit during covid!
+🧑‍🍳 **Cooking:** My ideal weekend is one where I spend 12 hours cooking for 12 minutes of eating.<br>
+🏝 **Traveling:** Admittedly this hasn't been much of a hobby in the last few years 🦠<br>
+🎹 **Live Music:** Loving all the venues opening up again. Idles, LCD Soundsystem and Wolf Alice so far this year!<br>
+🏔 **Climbing:** Love to go bouldering and will be joining/creating a group where ever I'm at.<br>
+🍿 **Film/TV:** I mean, who doesn't like film and TV...<br>
+🥾 **Walking/Hiking:** I don't know if walking round flat bits of Kent counts as hiking, but it sounds more impressive that walking.<br>
 
 ---
 

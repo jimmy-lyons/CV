@@ -186,12 +186,12 @@ At Makers, I've learnt to formalise my problem solving by using TDD to write my 
 
 ## Hobbies
 
-🧑‍🍳 **Cooking:** My ideal weekend is one where I spend 12 hours cooking for 12 minutes of eating.<br>
+🍳 **Cooking:** My ideal weekend is one where I spend 12 hours cooking for 12 minutes of eating.<br>
 🏝 **Travelling:** Admittedly this hasn't been much of a hobby in the last few years 🦠<br>
 🎹 **Live Music:** Loving all the venues opening up again. Idles, LCD Soundsystem and Wolf Alice so far this year!<br>
 🏔 **Climbing:** Love to go bouldering and will be joining/creating a group where ever I'm at.<br>
 🍿 **Film/TV:** I mean, who doesn't like film and TV...<br>
-🥾 **Walking/Hiking:** I don't know if walking round flat bits of Kent counts as hiking, but it sounds more impressive that walking.<br>
+🥾 **Walking/Hiking:** I don't know if walking round flat bits of Kent counts as hiking, but it sounds more impressive than walking.<br>
 
 ---
 

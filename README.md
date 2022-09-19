@@ -42,6 +42,7 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
           <li>HTML</li>
           <li>CSS</li>
           <li>Ruby</li>
+          <li>Python</li>
           <li>C</li>
         </ul>
       </td>
@@ -54,6 +55,7 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
           <li>PostgreSQL</li>
           <li>Sinatra</li>
           <li>Git</li>
+          <li>Django</li>
         </ul>
       </td>
       <td style="vertical-align: top">

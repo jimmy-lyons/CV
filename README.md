@@ -87,6 +87,7 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
 
 | Name                       | Description       | Tech/tools        |
 | -------------------------- | ----------------- | ----------------- |
+| Estuary English Freelance Project| (In progress) Project blog for graphic design company | Django, Python, React |
 | [BrainsOnBrioche](https://github.com/jimmy-lyons/brains-on-brioche)| Recipe Generator  | Jest, Cypress, Javascript, node, express.js, Mongoose,  React, 3rd Party APIs |
 | [Makebook](https://github.com/jimmy-lyons/acebook-MakeBook.git)| Mock of Facebook  | Jest, Cypress, Javascript, node, express.js, Mongoose, Handlebars |
 | [frontend-api-challenge](https://github.com/jimmy-lyons/frontend-api-challenge.git) | Mock of Twitter   | Jest, Javascript, DOM, APIs |
@@ -99,7 +100,14 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
 
 ## Work Experience
 
-**Heyne Tillett Steel** (April 2019 to April 2022)  
+**HTS +** (July 2022 to Present)
+_Support Software Developer_
+
+- Experience in refactoring legacy Python code across several company-wide tools.
+- Contributing to the back-end Django server for the company Database.
+- Writing React code for the company website.
+
+**Heyne Tillett Steel** (April 2019 to Present)  
 _Senior Structural Engineer_
 
 - Independently running engineering projects from conception to construction.
@@ -124,12 +132,14 @@ _Structural Engineer_
 ## Education
 
 ### Makers Academy (April 2022 to July 2022)
-- The course is taught over a twelve week period, during which the syllabus is learnt through pair-programming. 
-- Over the twelve weeks, my knowledge has quickly progressed from basic literacy in Ruby and writing simple algorithms, to writing complex [full stack web applications](#key-projects) in Ruby and Javascript.
-- The course has taught me to implement the principles of Object Oriented Programming and Test Driven Development in each of my projects. 
-- I have designed RESTful applications during the course using an [MVC Structure](https://github.com/jimmy-lyons/acebook-MakeBook.git) and [MERN stack](https://github.com/jimmy-lyons/brains-on-brioche).
-- During team projects, we have employed Agile working methodologies. 
-- To summarise my experience at Makers, I would say that the course provides a framework for you to grow your knowledge of programming. The coaching input is minimal and so the responsibility to learn and resolve problems sits firmly with the student. As such, I feel that my greatest skill gained from the course is the confidence to tackle any challenge: whether resolving a complex issue in an already familiar language; or learning a completely new language or framework.
+- One of the country’s leading software development boot-camps.
+- Skills to become a  Full Stack Software Developer are taught over an intense four-month period.
+- Skills are taught by Pair-Programming through a series of projects of increasing complexity. 
+- Projects progressed from writing simple algorithms in Ruby, to creating complex Full-Stack web applications in Ruby and JavaScript.
+- Learnt to build out my projects using a Test Driven Development methodology which employs a Red-Green-Refactor loop for all tasks.
+- Learnt to Implement good OOP principles: SRP, APIE and SOLID.
+- Completed several team projects using Agile working practices: Stand-ups, Retros, Sprints. 
+- Developed the ability to code in new or unfamiliar languages by focusing on the fundamental principles of writing clean code. Since completing the course I've been applying these principles to Python.
 
 ### University of Leeds (September 2011 to June 2015)
 

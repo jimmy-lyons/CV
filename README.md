@@ -75,7 +75,6 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
           <li>MVC Pattern</li>
           <li>RESTful APIs</li>
           <li>Pair programming</li>
-          <li>Continuous Integration & Delivery</li>
           <li>Code review</li>
         </ul>
       </td>

@@ -43,6 +43,7 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
           <li>CSS</li>
           <li>Ruby</li>
           <li>Python</li>
+          <li>Java</li>
           <li>C</li>
         </ul>
       </td>
@@ -56,6 +57,7 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
           <li>Sinatra</li>
           <li>Git</li>
           <li>Django</li>
+          <li>SpringBoot</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -64,6 +66,7 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
           <li>Capybara</li>
           <li>Cypress</li>
           <li>RSpec</li>
+          <li>JUnit</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -101,7 +104,15 @@ It has been ten months since I logged my first 'Hello, World!' to the console wh
 
 ## Work Experience
 
-**HTS +** (July 2022 to Present)
+**Capgemini** (October 2022 to Present)
+_Backend Java Developer_
+
+- 6 weeks of intensive Java training for the role, including project work using:
+  - SpringBoot framework.
+  - JUnit testing with Mockito.
+  - Concurrency, Threads and Asynchronous programming syntax.
+
+**HTS +** (July 2022 to October 2022)
 _Support Software Developer_
 
 - Experience in refactoring legacy Python code across several company-wide tools.
